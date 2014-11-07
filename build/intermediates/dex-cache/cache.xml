@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Users\Ashutosh\Documents\Android-studio\FreeTshirt\app\build\intermediates\pre-dexed\debug\android-agent-4.98.0-a4817553a780aad0c02a06bbc0c4e6c09e0de4fc.jar"
+        jar="C:\Users\Ashutosh\.gradle\caches\modules-2\files-2.1\com.newrelic.agent.android\android-agent\4.98.0\f776b8f6605a844495e9219ca78ec77dfaa2f249\android-agent-4.98.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f776b8f6605a844495e9219ca78ec77dfaa2f249"/>
+    <item
+        dex="C:\Users\Ashutosh\Documents\Android-studio\FreeTshirt\app\build\intermediates\pre-dexed\debug\bolts-android-1.1.2-ca3f839bf46488b82314c5fa594f225db7c2d4d3.jar"
+        jar="C:\Users\Ashutosh\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.1.2\91c20388c9a45f62b5ed8fe0502bb76ff6251fc7\bolts-android-1.1.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="91c20388c9a45f62b5ed8fe0502bb76ff6251fc7"/>
+    <item
+        dex="C:\Users\Ashutosh\Documents\Android-studio\FreeTshirt\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0-79e42da7c2657068d681cf877be8b4cc06e3cb7a.jar"
+        jar="C:\Program Files (x86)\Android\android-studio\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+    <item
+        dex="C:\Users\Ashutosh\Documents\Android-studio\FreeTshirt\app\build\intermediates\pre-dexed\debug\classes-7c6976a363703f6ff001e525f81f62b95ff2e3d8.jar"
+        jar="C:\Users\Ashutosh\Documents\Android-studio\FreeTshirt\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+    <item
+        dex="C:\Users\Ashutosh\Documents\Android-studio\FreeTshirt\app\build\intermediates\pre-dexed\debug\classes-869bb5a70f1c8fbd34f258a4afb62dd9759126d9.jar"
+        jar="C:\Users\Ashutosh\Documents\Android-studio\FreeTshirt\app\build\intermediates\exploded-aar\FreeTshirt\facebook\unspecified\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="b591abb5c1d75b9e560b37dfc6f9b201eecf974b"/>
+    <item
+        dex="C:\Users\Ashutosh\Documents\Android-studio\FreeTshirt\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-b3c6b7509a949a029938cf687935a9223ee6e4f2.jar"
+        jar="C:\Users\Ashutosh\Documents\Android-studio\FreeTshirt\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="C:\Users\Ashutosh\Documents\Android-studio\FreeTshirt\app\build\intermediates\pre-dexed\debug\classes-53fe298d85f0d0f21ddb6a8b96f704ce84ec3e15.jar"
+        jar="C:\Users\Ashutosh\Documents\Android-studio\FreeTshirt\app\build\intermediates\exploded-aar\com.shamanland\facebook-like-button\0.1.8\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="6aa1fc36c1732ad848de1b1dbdab4f7eab4784b3"/>
+
+</pre-dex-items>
